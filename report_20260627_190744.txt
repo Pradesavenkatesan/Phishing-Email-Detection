@@ -1,0 +1,37 @@
+
+========================================
+PHISHING EMAIL SCAN REPORT
+========================================
+
+Date: 2026-06-27 19:07:44
+
+Email:
+Dear PRADESA VM,
+
+Greetings from ICT Academy!
+
+We are pleased to confirm your registration for the MongoDB Skillathon 2026, organized by ICT Academy in association with MongoDB.
+
+Your registration has been successfully received. The Skillathon is designed to help students gain hands-on knowledge of MongoDB technologies through self-paced learning and industry-recognized skill badges.
+
+Important: Please use the same email address for both Skillathon registration and MongoDB University enrollment to ensure proper tracking of your progress.
+
+Further Details about the program will be shared at the earliest.
+
+We wish you a successful learning journey and look forward to your active participation.
+
+Regards,
+Team ICT Academy
+
+URLs Found: 0
+
+Suspicious Keywords:
+None
+
+Prediction:
+PHISHING EMAIL
+
+Confidence:
+54.27%
+
+========================================

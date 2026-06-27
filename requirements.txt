@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+joblib
+numpy
+matplotlib
+seaborn
+
+pip install -r requirements.txt
